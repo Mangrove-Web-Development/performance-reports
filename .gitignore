@@ -8,3 +8,4 @@ stats.html
 .cache
 .DS_Store
 service_accounts
+.env

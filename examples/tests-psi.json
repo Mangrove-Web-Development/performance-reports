@@ -1,14 +1,31 @@
 {
   "tests": [
     {
-      "label": "YT",
-      "url": "https://www.youtube.com",
+      "label": "Mangrove Mobile",
+      "url": "https://mangrove-web.com",
       "gatherer": "psi",
-      "psi": {
-        "settings": {
-          "locale": "en-GB",
-          "strategy": "mobile"
-        }
+      "settings": {
+        "locale": "en-GB",
+        "strategy": "mobile",
+        "category": "performance"
+      }
+    },
+    {
+      "label": "Mangrove Desktop",
+      "url": "https://mangrove-web.com",
+      "gatherer": "psi",
+      "settings": {
+        "locale": "en-GB",
+        "strategy": "desktop"
+      }
+    },
+    {
+      "label": "WRA Desktop",
+      "url": "https://wra-ca.com",
+      "gatherer": "psi",
+      "settings": {
+        "locale": "en-GB",
+        "strategy": "desktop"
       }
     }
   ]
