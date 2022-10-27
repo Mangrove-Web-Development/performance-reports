@@ -1,6 +1,5 @@
 .git
 node_modules
-output/
 tmp/
 build/
 dist/
@@ -9,3 +8,4 @@ stats.html
 .DS_Store
 service_accounts
 .env
+.idea
