@@ -5,40 +5,43 @@
       "url": "https://mangrove-web.com",
       "recurring": {
         "frequency": "Daily",
-        "nextTriggerTimestamp": 1606955174906
+        "nextTriggerTimestamp": 1666953235658
       },
       "gatherer": "psi",
       "settings": {
         "locale": "en-GB",
         "strategy": "mobile",
         "category": "performance"
-      }
+      },
+      "errors": []
     },
     {
       "label": "Mangrove Desktop",
       "url": "https://mangrove-web.com",
       "recurring": {
         "frequency": "Daily",
-        "nextTriggerTimestamp": 1606955174906
+        "nextTriggerTimestamp": 1666953235658
       },
       "gatherer": "psi",
       "settings": {
         "locale": "en-GB",
         "strategy": "desktop"
-      }
+      },
+      "errors": []
     },
     {
       "label": "WRA Desktop",
       "url": "https://wra-ca.com",
       "recurring": {
         "frequency": "Daily",
-        "nextTriggerTimestamp": 1606955174906
+        "nextTriggerTimestamp": 1666953235658
       },
       "gatherer": "psi",
       "settings": {
         "locale": "en-GB",
         "strategy": "desktop"
-      }
+      },
+      "errors": []
     }
   ]
 }
