@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "label": "web.dev",
+      "url": "https://web.dev",
+      "recurring": {
+        "frequency": "Daily",
+        "nextTriggerTimestamp": 1606955174906
+      },
+      "gatherer": "psi",
+      "errors": []
+    }
+  ]
+}

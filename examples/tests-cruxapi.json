@@ -1,0 +1,42 @@
+{
+  "tests": [
+    {
+      "label":"Web Vitals",
+      "url": "https://web.dev/vitals/",
+      "gatherer": "cruxapi",
+      "cruxapi": {
+        "settings": {
+          "urlType" : "Page",
+          "formFactor": "ALL"
+        }
+      }
+    },
+    {
+      "label":"Web.dev Origin phone",
+      "url": "https://web.dev",
+      "gatherer": "cruxapi",
+      "cruxapi": {
+        "settings": {
+          "urlType" : "Origin",
+          "formFactor": "PHONE"
+        }
+      }
+    },
+    {
+      "label":"Web.dev Origin",
+      "url": "https://web.dev",
+      "gatherer": "cruxapi"
+    },
+    {
+      "label":"Web.dev wrong Origin",
+      "url": "https://wew.dev",
+      "gatherer": "cruxapi",
+      "cruxapi": {
+        "settings": {
+          "urlType" : "Origin",
+          "formFactor": "PHONE"
+        }
+      }
+    }
+  ]
+}

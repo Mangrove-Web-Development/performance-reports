@@ -1,0 +1,15 @@
+{
+  "tests": {
+    "connector": "csv",
+    "path": "examples/tests.csv"
+  },
+  "results": {
+    "connector": "json",
+    "path": "tmp/results.json",
+    "appendResults": false
+  },
+  "helper": "node",
+  "extensions": ["budgets"],
+  "verbose": true,
+  "debug": false
+}

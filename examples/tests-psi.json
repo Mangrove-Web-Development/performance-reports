@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "label": "Mangrove Mobile",
+      "url": "https://mangrove-web.com",
+      "recurring": {
+        "frequency": "Daily",
+        "nextTriggerTimestamp": 1606955174906
+      },
+      "gatherer": "psi",
+      "settings": {
+        "locale": "en-GB",
+        "strategy": "mobile",
+        "category": "performance"
+      }
+    },
+    {
+      "label": "Mangrove Desktop",
+      "url": "https://mangrove-web.com",
+      "recurring": {
+        "frequency": "Daily",
+        "nextTriggerTimestamp": 1606955174906
+      },
+      "gatherer": "psi",
+      "settings": {
+        "locale": "en-GB",
+        "strategy": "desktop"
+      }
+    },
+    {
+      "label": "WRA Desktop",
+      "url": "https://wra-ca.com",
+      "recurring": {
+        "frequency": "Daily",
+        "nextTriggerTimestamp": 1606955174906
+      },
+      "gatherer": "psi",
+      "settings": {
+        "locale": "en-GB",
+        "strategy": "desktop"
+      }
+    }
+  ]
+}

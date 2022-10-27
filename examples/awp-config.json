@@ -1,0 +1,19 @@
+{
+  "tests": {
+    "connector": "json",
+    "path": "examples/tests.json"
+  },
+  "results": {
+    "connector": "json",
+    "path": "tmp/results.json",
+    "appendResults": true
+  },
+  "helper": "node",
+  "extensions": ["budgets"],
+  "json": {
+    "testsPath": "examples/tests.json",
+    "resultsPath": "tmp/results.json"
+  },
+  "verbose": true,
+  "debug": false
+}

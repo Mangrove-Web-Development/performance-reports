@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {
+      "label": "Think With Google",
+      "url": "https://thinkwithgoogle.com",
+      "gatherer": "webpagetest"
+    }
+  ]
+}

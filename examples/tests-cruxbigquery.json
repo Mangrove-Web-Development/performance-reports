@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "label":"Web.dev no Protocol",
+      "origin": "web.dev",
+      "gatherer": "cruxbigquery"
+    },
+    {
+      "label":"Web.dev Correct",
+      "origin": "https://web.dev",
+      "gatherer": "cruxbigquery"
+    },
+    {
+      "label":"Google Correct",
+      "origin": "https://www.google.com",
+      "gatherer": "cruxbigquery"
+    }
+  ]
+}

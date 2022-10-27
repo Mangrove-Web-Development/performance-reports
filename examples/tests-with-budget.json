@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "label": "YT",
+      "url": "https://www.youtube.com",
+      "gatherer": "psi",
+      "budgets": {
+        "metricPath": "psi.metrics.lighthouse.[METRIC_NAME]",
+        "budget": {
+          "FirstContentfulPaint": 500
+        }
+      }
+    }
+  ]
+}
