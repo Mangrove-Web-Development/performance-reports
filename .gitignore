@@ -2,6 +2,7 @@
 node_modules
 tmp/
 build/
+output/
 dist/
 stats.html
 .cache

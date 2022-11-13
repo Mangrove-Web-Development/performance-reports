@@ -539,6 +539,183 @@
         },
         "errors": []
       }
+    },
+    {
+      "id": "1668343196690-https://mangrove-web.com",
+      "type": "Single",
+      "gatherer": "psi",
+      "status": "Retrieved",
+      "label": "Mangrove Mobile",
+      "createdTimestamp": 1668343196690,
+      "modifiedTimestamp": 1668343196690,
+      "errors": [],
+      "url": "https://mangrove-web.com",
+      "psi": {
+        "status": "Retrieved",
+        "statusText": "Success",
+        "settings": {},
+        "metadata": {
+          "testId": "https://mangrove-web.com/",
+          "requestedUrl": "https://mangrove-web.com/",
+          "finalUrl": "https://mangrove-web.com/",
+          "lighthouseVersion": "9.6.6",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/106.0.5249.103 Safari/537.36",
+          "fetchTime": "2022-11-13T12:39:58.150Z"
+        },
+        "metrics": {
+          "RenderBlockingResources": 82032,
+          "crux": {},
+          "lighthouse": {
+            "FirstContentfulPaint": 1579,
+            "FirstMeaningfulPaint": 1579,
+            "LargestContentfulPaint": 1729,
+            "SpeedIndex": 7258,
+            "TimeToInteractive": 12168,
+            "TotalBlockingTime": 617,
+            "CumulativeLayoutShift": 0.22643937004937065,
+            "TotalSize": 1453,
+            "HTML": 44,
+            "Javascript": 647,
+            "CSS": 83,
+            "Fonts": 372,
+            "Images": 154,
+            "Medias": 0,
+            "ThirdParty": 564,
+            "UnusedCSS": 67,
+            "WebPImages": 0,
+            "OptimizedImages": 0,
+            "ResponsiveImages": 0,
+            "OffscreenImages": 7,
+            "DOMElements": 816,
+            "Performance": 0.61,
+            "ProgressiveWebApp": 0.7,
+            "Manifest": 1,
+            "ServiceWorker": 0,
+            "Accessibility": 0.98,
+            "SEO": 0.77,
+            "BestPractices": 0.83
+          }
+        },
+        "errors": []
+      }
+    },
+    {
+      "id": "1668343217082-https://mangrove-web.com",
+      "type": "Single",
+      "gatherer": "psi",
+      "status": "Retrieved",
+      "label": "Mangrove Desktop",
+      "createdTimestamp": 1668343217082,
+      "modifiedTimestamp": 1668343217082,
+      "errors": [],
+      "url": "https://mangrove-web.com",
+      "psi": {
+        "status": "Retrieved",
+        "statusText": "Success",
+        "settings": {},
+        "metadata": {
+          "testId": "https://mangrove-web.com/",
+          "requestedUrl": "https://mangrove-web.com/",
+          "finalUrl": "https://mangrove-web.com/",
+          "lighthouseVersion": "9.6.6",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/106.0.5249.103 Safari/537.36",
+          "fetchTime": "2022-11-13T12:39:58.150Z"
+        },
+        "metrics": {
+          "RenderBlockingResources": 82032,
+          "crux": {},
+          "lighthouse": {
+            "FirstContentfulPaint": 1579,
+            "FirstMeaningfulPaint": 1579,
+            "LargestContentfulPaint": 1729,
+            "SpeedIndex": 7258,
+            "TimeToInteractive": 12168,
+            "TotalBlockingTime": 617,
+            "CumulativeLayoutShift": 0.22643937004937065,
+            "TotalSize": 1453,
+            "HTML": 44,
+            "Javascript": 647,
+            "CSS": 83,
+            "Fonts": 372,
+            "Images": 154,
+            "Medias": 0,
+            "ThirdParty": 564,
+            "UnusedCSS": 67,
+            "WebPImages": 0,
+            "OptimizedImages": 0,
+            "ResponsiveImages": 0,
+            "OffscreenImages": 7,
+            "DOMElements": 816,
+            "Performance": 0.61,
+            "ProgressiveWebApp": 0.7,
+            "Manifest": 1,
+            "ServiceWorker": 0,
+            "Accessibility": 0.98,
+            "SEO": 0.77,
+            "BestPractices": 0.83
+          }
+        },
+        "errors": []
+      }
+    },
+    {
+      "id": "1668343217801-https://wra-ca.com",
+      "type": "Single",
+      "gatherer": "psi",
+      "status": "Retrieved",
+      "label": "WRA Desktop",
+      "createdTimestamp": 1668343217801,
+      "modifiedTimestamp": 1668343217801,
+      "errors": [],
+      "url": "https://wra-ca.com",
+      "psi": {
+        "status": "Retrieved",
+        "statusText": "Success",
+        "settings": {},
+        "metadata": {
+          "testId": "https://wra-ca.com/",
+          "requestedUrl": "https://wra-ca.com/",
+          "finalUrl": "https://wra-ca.com/",
+          "lighthouseVersion": "9.6.6",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/106.0.5249.103 Safari/537.36",
+          "fetchTime": "2022-11-13T12:40:19.278Z"
+        },
+        "metrics": {
+          "RenderBlockingResources": 54687,
+          "crux": {},
+          "lighthouse": {
+            "FirstContentfulPaint": 1382,
+            "FirstMeaningfulPaint": 1456,
+            "LargestContentfulPaint": 6380.5,
+            "SpeedIndex": 5249,
+            "TimeToInteractive": 6233,
+            "TotalBlockingTime": 300,
+            "CumulativeLayoutShift": 0.03950873480902778,
+            "TotalSize": 1047,
+            "HTML": 21,
+            "Javascript": 352,
+            "CSS": 84,
+            "Fonts": 175,
+            "Images": 414,
+            "Medias": 0,
+            "ThirdParty": 288,
+            "UnusedCSS": 64,
+            "WebPImages": 0,
+            "OptimizedImages": 0,
+            "ResponsiveImages": 97,
+            "OffscreenImages": 250,
+            "DOMElements": 757,
+            "Performance": 0.63,
+            "ProgressiveWebApp": 0.7,
+            "Manifest": 1,
+            "ServiceWorker": 0,
+            "Accessibility": 0.98,
+            "SEO": 0.93,
+            "BestPractices": 0.83
+          }
+        },
+        "errors": []
+      }
     }
   ]
 }
