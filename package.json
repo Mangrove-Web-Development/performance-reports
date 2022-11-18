@@ -7,7 +7,8 @@
     "test": "jest ./test/ && npm run build && jest ./integration/",
     "unit-test": "jest ./test/",
     "integration": "npm run build && jest ./integration/",
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "create-tests": "node tests.js"
   },
   "repository": {
     "type": "git",
