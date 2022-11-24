@@ -47,7 +47,8 @@ for (site of sites) {
       },
       "gatherer": "psi",
       "settings": {
-        "locale": "en-GB",
+        "locale": "en-US",
+        "category": "performance",
         "strategy": `${i === 0 ? 'desktop' : 'mobile'}`
       },
     })

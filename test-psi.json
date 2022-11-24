@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "label": "https://calseed.fund (Desktop)",
+      "url": "https://calseed.fund",
+      "gatherer": "psi",
+      "settings": {
+        "locale": "en-US",
+        "category": "performance",
+        "strategy": "desktop"
+      }
+    },
+    {
+      "label": "https://calseed.fund (Mobile)",
+      "url": "https://calseed.fund",
+      "gatherer": "psi",
+      "settings": {
+        "locale": "en-US",
+        "category": "performance",
+        "strategy": "mobile"
+      }
+    }
+  ]
+}

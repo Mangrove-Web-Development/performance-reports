@@ -8,7 +8,9 @@
     "unit-test": "jest ./test/",
     "integration": "npm run build && jest ./integration/",
     "build": "rollup -c",
-    "create-tests": "node tests.js"
+    "create-tests": "node tests.js",
+    "psi-test": "PSI_APIKEY=AIzaSyCk1sGfAcRDfGd1v09v5wxEoy6znTCeNfU ./awp run test-psi.json output/results-psi.json",
+    "crux-test": "CRUX_APIKEY=AIzaSyAPy0-vdngAP4R9JspAgyzUdqzncUlhL-M ./awp run test-crux.json output/results-crux.json"
   },
   "repository": {
     "type": "git",

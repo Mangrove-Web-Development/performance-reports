@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "label":"Web Vitals",
+      "url": "https://mangrove-web.com/",
+      "gatherer": "cruxapi",
+      "cruxapi": {
+        "settings": {
+          "urlType" : "Page",
+          "formFactor": "ALL"
+        }
+      }
+    }
+  ]
+}
